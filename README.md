@@ -1,8 +1,9 @@
 
 ### 👋Hi. I'm Khang. 
 I'm currently studying at University of Information Technology - VNU 
-#### 🌱 I can working with these programing language:
-  1. test
+#### 🌱 I can working with these things: Golang, C++, Python
+#### 🌱 Currently i'm interesting in Machine Learning, Deep Learning
+#### 🌱 I'm currently learning Embeded Programing
 
 <!--
 **otaros/otaros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
