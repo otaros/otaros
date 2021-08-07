@@ -1,4 +1,5 @@
-### Hi there 👋
+👋Hi. I'm Khang. I'm currently studying at University of Information Technology - VNU 
+
 
 <!--
 **otaros/otaros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
