@@ -1,5 +1,5 @@
-### Self:
-👋Hi. I'm Khang. I'm currently studying at University of Information Technology - VNU 
+
+### 👋Hi. I'm Khang. I'm currently studying at University of Information Technology - VNU 
 
 
 <!--
